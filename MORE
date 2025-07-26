@@ -520,19 +520,19 @@
             <img src="https://web-data-base.oss-cn-beijing.aliyuncs.com/images/杨东平.jpg"
                  width="61">
           </a>
-            <span><h2><a href="/">顾明远</a></h2><h6>中共党员，教育部社会科学委员会副主任，北京师范大学教育学部顾问。</h6></span>
+            <span><h2><a href="/static/">顾明远</a></h2><h6>中共党员，教育部社会科学委员会副主任，北京师范大学教育学部顾问。</h6></span>
           </li>
           <li><a href="#">
             <img src="https://web-data-base.oss-cn-beijing.aliyuncs.com/images/27651627f83bf0f3f6582a3b4e303db0.jpg"
                  width="61">
           </a>
-            <span><h2><a href="/">贾少华</a></h2><h6>中共党员。现任义乌工商学院党委副书记和副院长，主持党政日常工作，副教授职称，特级教师。</h6></span>
+            <span><h2><a href="/static/">贾少华</a></h2><h6>中共党员。现任义乌工商学院党委副书记和副院长，主持党政日常工作，副教授职称，特级教师。</h6></span>
           </li>
         </ul>
       </div>
       <div class="clear"></div>
       <div class="rsrm">
-        <div class="titley"><span>人事任免</span><a href="/">MORE+</a></div>
+        <div class="titley"><span>人事任免</span><a href="/static/">MORE+</a></div>
         <ul>
           <li><a href="/show/50" target="_blank"
                  title="中共教育部党组关于李军、郭新立同志职务任免的通知">中共教育部党组关于李军、郭新立同志职务任免的通知</a>
@@ -545,7 +545,7 @@
         </ul>
       </div>
       <div class="dzfwpt">
-        <div class="titley"><span>电子服务平台</span><a href="/">MORE+</a></div>
+        <div class="titley"><span>电子服务平台</span><a href="/static/">MORE+</a></div>
         <ul>
           <li><a href="/static/xyform">证书查询</a></li>
           <li><a href="/static/xjform">学籍管理</a></li>
